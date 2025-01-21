@@ -1,3 +1,2 @@
-CLS
-ECHO.æµ‹è¯•ç•Œé¢
+echo cesho³µÉí
 pause

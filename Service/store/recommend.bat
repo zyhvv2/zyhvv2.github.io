@@ -1,2 +1,4 @@
-echo cesho车身
-pause
+CLS
+ECHO 测试界面
+call choicex common [1]
+if "%choice%"=="1" ECHO success

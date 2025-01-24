@@ -1,9 +1,11 @@
-CLS
-echo =--------------------------------------------------------------------=
-echo 推荐
-echo =--------------------------------------------------------------------=
-echo.
-echo.   Store 已上线测试
-echo.
-call choicex common [1]
-if "%choice%"=="1" ECHO success
+set store-recommend-1=Store已开始测试
+set store-recommend-2=TeleMsg
+set store-recommend-3=Defender
+set store-recommend-4=
+set store-recommend-5=
+set store-recommend-6=
+set store-recommend-7=
+set store-recommend-8=
+set store-recommend-9=
+set store-recommend-10=
+set store-recommend-11=

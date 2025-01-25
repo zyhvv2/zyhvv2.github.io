@@ -1,4 +1,5 @@
-set store-recommend-1=Store已开始测试
+set store-recommend-top=Store已开始测试
+set store-recommend-1=DTool
 set store-recommend-2=TeleMsg
 set store-recommend-3=Defender
 set store-recommend-4=

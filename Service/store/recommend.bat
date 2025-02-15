@@ -1,8 +1,11 @@
 set store-recommend-top=Store“—ø™ º≤‚ ‘
-set store-recommend-1=DTool
-set store-recommend-2=TeleMsg
-set store-recommend-3=Defender
-set store-recommend-4=
+set store-recommend-1=1.DTool
+set store-recommend-1-filename=store-app-1.bat
+set store-recommend-2=2.TeleMsg
+set store-recommend-2-filename=store-app-2.bat
+set store-recommend-3=3.Defender
+set store-recommend-3-filename=store-app-3.bat
+set store-recommend-4=4.Sodium
 set store-recommend-5=
 set store-recommend-6=
 set store-recommend-7=

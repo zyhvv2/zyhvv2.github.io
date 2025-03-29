@@ -9,5 +9,3 @@ set store-view-app-exercise=---
 set store-view-app-updatalog=第一代已发布
 set store-view-app-preview=通信工具
 set store-view-app-supportv=4
-::调用appview
-call core\Appview
